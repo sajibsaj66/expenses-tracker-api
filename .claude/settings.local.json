@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python run_tests.py:*)",
+      "Bash(source:*)",
+      "Bash(unalias pip)",
+      "Bash(unalias:*)",
+      "Bash(pytest:*)",
+      "Bash(python3:*)",
+      "Bash(psql:*)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
