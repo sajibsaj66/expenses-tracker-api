@@ -417,9 +417,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Ahmad Sufyan**
-- LinkedIn: [https://www.linkedin.com/in/ahmadsufyan455/](https://www.linkedin.com/in/ahmadsufyan455/)
-- Email: ahmadsufyan514@gmail.com
+**MD.SHAMSUL ALAM SAJIB**
+- LinkedIn: https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)
+- Email: sajibsaj66@gmail.com
 
 ---
 
